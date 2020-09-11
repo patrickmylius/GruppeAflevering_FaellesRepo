@@ -14,7 +14,7 @@ public class GruppeAflevering_FaellesRepo {
         //Brug af metode som introducere gruppe
         gruppeIntroduktion();
 
-        //Brug af metode som tager imod et "navn"
+        //Brug af metode som tager imod en string "";
         bevisPaaString("Danijel");
         bevisPaaString("Mikkel");
         bevisPaaString("Daniella");
