@@ -7,7 +7,8 @@ public class GruppeAflevering_FaellesRepo {
         System.out.println(" This is difficult ");
         gruppeIntroduktion();
     }
-public static void gruppeIntroduktion(){
+
+    public static void gruppeIntroduktion() {
         System.out.println("******* VI ER GRUPPE *******");
         System.out.println("******* COPY PASTE   *******");
         System.out.println("            ***             ");
@@ -20,4 +21,5 @@ public static void gruppeIntroduktion(){
         System.out.println("       *************        ");
         System.out.println("       *************        ");
         System.out.println("       *************        ");
+    }
 }
